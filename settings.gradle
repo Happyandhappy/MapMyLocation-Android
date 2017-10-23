@@ -1,0 +1,2 @@
+include ':facebooksdk'
+include ':appcompat'
